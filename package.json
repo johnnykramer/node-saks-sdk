@@ -1,0 +1,14 @@
+{
+  "name": "node-saks-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "johnnykramer <johnnyfearmekramer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "rpi-gpio": "^2.1.3"
+  }
+}
